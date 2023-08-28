@@ -1,6 +1,3 @@
 # python-chatbot
 
-*All credit goes to https://www.youtube.com/watch?v=CkkjXTER2KE&ab_channel=Indently*
-
-
-
+*All credit goes to https://github.com/abhisarahuja/create_chatbot_using_python*
