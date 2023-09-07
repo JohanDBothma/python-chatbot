@@ -54,18 +54,6 @@
 			"context": [
 				""
 			]
-		},
-		{
-			"tag": "query",
-			"patterns": [
-				"What is Simplilearn?"
-			],
-			"responses": [
-				"Simplilearn is the popular online Bootcamp & online courses learning platform "
-			],
-			"context": [
-				""
-			]
 		}
 	]
 }
