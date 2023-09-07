@@ -1,5 +1,5 @@
 {
-	"phrases": [
+	"intents": [
 		{
 			"tag": "greeting",
 			"patterns": [
